@@ -1,3 +1,3 @@
-# Week G
+# Week 10
 
-ML review, Ingredients for ML models, Intro to Neural Networks
+More PCA and train/test splits, ML review, Intro to Neural Networks
